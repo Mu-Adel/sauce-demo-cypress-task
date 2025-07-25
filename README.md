@@ -36,8 +36,8 @@ The project uses the following key dependencies:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd task
+   git clone https://github.com/Mu-Adel/sauce-demo-cypress-task.git
+   cd sauce-demo-cypress-task
    ```
 
 2. **Install dependencies:**
