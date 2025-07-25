@@ -1,0 +1,12 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Cypress
+cypress/reports/
+cypress/screenshots/
+cypress/videos/
+
+# OS
+.DS_Store
